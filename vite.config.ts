@@ -29,7 +29,7 @@ export default defineConfig({
         ],
       },
       workbox: {
-        importScripts: ["./firebase-messaging-sw.js"],
+        importScripts: ["./demo-app/firebase-messaging-sw.js"],
       },
     }),
   ],
