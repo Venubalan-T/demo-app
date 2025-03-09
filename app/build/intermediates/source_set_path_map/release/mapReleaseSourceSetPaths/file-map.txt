@@ -1,0 +1,10 @@
+io.github.venubalan_t.twa.app-core-1.1.0-0 /Users/venubalan/.gradle/caches/8.8/transforms/2144911bb09dce3a07f407e3b390637e/transformed/core-1.1.0/res
+io.github.venubalan_t.twa.app-browser-1.4.0-1 /Users/venubalan/.gradle/caches/8.8/transforms/b511174c15fdde7dea3e957094b4390b/transformed/browser-1.4.0/res
+io.github.venubalan_t.twa.app-androidbrowserhelper-2.5.0-2 /Users/venubalan/.gradle/caches/8.8/transforms/d3335fbdff4200978ad121d7b141def7/transformed/androidbrowserhelper-2.5.0/res
+io.github.venubalan_t.twa.app-pngs-3 /Users/venubalan/Repositories/Learn_Test/Demo/main/app/build/generated/res/pngs/release
+io.github.venubalan_t.twa.app-resValues-4 /Users/venubalan/Repositories/Learn_Test/Demo/main/app/build/generated/res/resValues/release
+io.github.venubalan_t.twa.app-packageReleaseResources-5 /Users/venubalan/Repositories/Learn_Test/Demo/main/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+io.github.venubalan_t.twa.app-packageReleaseResources-6 /Users/venubalan/Repositories/Learn_Test/Demo/main/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+io.github.venubalan_t.twa.app-release-7 /Users/venubalan/Repositories/Learn_Test/Demo/main/app/build/intermediates/merged_res/release/mergeReleaseResources
+io.github.venubalan_t.twa.app-main-8 /Users/venubalan/Repositories/Learn_Test/Demo/main/app/src/main/res
+io.github.venubalan_t.twa.app-release-9 /Users/venubalan/Repositories/Learn_Test/Demo/main/app/src/release/res

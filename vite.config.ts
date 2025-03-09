@@ -13,23 +13,21 @@ export default defineConfig({
       },
 
       registerType: "autoUpdate",
-      strategies: "injectManifest",
-      srcDir: "src",
-      filename: "sw.ts",
+      strategies: "generateSW",
+      workbox: {
+        importScripts: ["/demo-app/firebase-messaging-sw.js"],
+      },
 
       manifest: {
         name: "Demo App",
         theme_color: "#000000",
         icons: [
           {
-            src: "./qube-favicon.png",
+            src: "/demo-app/qube-favicon.png",
             sizes: "512x512",
             type: "image/png",
           },
         ],
-      },
-      workbox: {
-        importScripts: ["./demo-app/firebase-messaging-sw.js"],
       },
     }),
   ],
