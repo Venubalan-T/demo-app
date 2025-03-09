@@ -4,7 +4,7 @@ import { VitePWA } from "vite-plugin-pwa";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/demo-app",
+  base: "/",
   plugins: [
     react(),
     VitePWA({
@@ -15,7 +15,18 @@ export default defineConfig({
       registerType: "autoUpdate",
       strategies: "generateSW",
       workbox: {
-        importScripts: ["/demo-app/firebase-messaging-sw.js"],
+        importScripts: ["/firebase-messaging-sw.js"],
+        runtimeCaching: [
+          {
+            urlPattern: new RegExp("\\.well-known/assetlinks\\.json$"),
+            handler: "NetworkOnly",
+            options: {
+              cacheName: "asset-links-json",
+            },
+          },
+        ],
+        navigateFallback: "/index.html",
+        navigateFallbackDenylist: [/^\/.well-known\//],
       },
 
       manifest: {
@@ -23,7 +34,7 @@ export default defineConfig({
         theme_color: "#000000",
         icons: [
           {
-            src: "/demo-app/qube-favicon.png",
+            src: "/qube-favicon.png",
             sizes: "512x512",
             type: "image/png",
           },

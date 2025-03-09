@@ -1,6 +1,6 @@
 {
   "packageId": "io.github.venubalan_t.twa",
-  "host": "venubalan-t.github.io",
+  "host": "chatapp-5a00d.web.app",
   "name": "Demo App",
   "launcherName": "main",
   "display": "standalone",
@@ -12,18 +12,18 @@
   "navigationDividerColorDark": "#000000",
   "backgroundColor": "#FFFFFF",
   "enableNotifications": true,
-  "startUrl": "/demo-app/",
-  "iconUrl": "https://venubalan-t.github.io/demo-app/qube-favicon.png",
+  "startUrl": "/",
+  "iconUrl": "https://chatapp-5a00d.web.app/qube-favicon.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "/Users/venubalan/Repositories/Learn_Test/Demo/main/android.keystore",
     "alias": "android-twa"
   },
-  "appVersionName": "2",
-  "appVersionCode": 2,
+  "appVersionName": "4",
+  "appVersionCode": 4,
   "shortcuts": [],
   "generatorApp": "bubblewrap-cli",
-  "webManifestUrl": "https://venubalan-t.github.io/demo-app/manifest.webmanifest",
+  "webManifestUrl": "https://chatapp-5a00d.web.app/manifest.webmanifest",
   "fallbackType": "customtabs",
   "features": {},
   "alphaDependencies": {
@@ -32,11 +32,11 @@
   "enableSiteSettingsShortcut": true,
   "isChromeOSOnly": false,
   "isMetaQuest": false,
-  "fullScopeUrl": "https://venubalan-t.github.io/demo-app/",
+  "fullScopeUrl": "https://chatapp-5a00d.web.app/",
   "minSdkVersion": 21,
   "orientation": "portrait-primary",
   "fingerprints": [],
   "additionalTrustedOrigins": [],
   "retainedBundles": [],
-  "appVersion": "2"
+  "appVersion": "4"
 }

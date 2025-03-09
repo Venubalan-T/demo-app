@@ -28,13 +28,13 @@
     <!-- Value from default config. -->
     <string name="fallbackType" translatable="false">customtabs</string>
     <!-- Value from default config. -->
-    <string name="fullScopeUrl" translatable="false">https://venubalan-t.github.io/demo-app/</string>
+    <string name="fullScopeUrl" translatable="false">https://chatapp-5a00d.web.app/</string>
     <!-- Value from default config. -->
     <string name="generatorApp" translatable="false">bubblewrap-cli</string>
     <!-- Value from default config. -->
-    <string name="hostName" translatable="false">venubalan-t.github.io</string>
+    <string name="hostName" translatable="false">chatapp-5a00d.web.app</string>
     <!-- Value from default config. -->
-    <string name="launchUrl" translatable="false">https://venubalan-t.github.io/demo-app/</string>
+    <string name="launchUrl" translatable="false">https://chatapp-5a00d.web.app/</string>
     <!-- Value from default config. -->
     <string name="launcherName" translatable="false">main</string>
     <!-- Value from default config. -->
@@ -42,6 +42,6 @@
     <!-- Value from default config. -->
     <string name="providerAuthority" translatable="false">io.github.venubalan_t.twa.fileprovider</string>
     <!-- Value from default config. -->
-    <string name="webManifestUrl" translatable="false">https://venubalan-t.github.io/demo-app/manifest.webmanifest</string>
+    <string name="webManifestUrl" translatable="false">https://chatapp-5a00d.web.app/manifest.webmanifest</string>
 
 </resources>

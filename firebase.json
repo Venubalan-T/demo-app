@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "dist",
+    "rewrites": [
+      {
+        "source": "/.well-known/assetlinks.json",
+        "destination": "/.well-known/assetlinks.json"
+      }
+    ],
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}

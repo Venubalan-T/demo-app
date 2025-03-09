@@ -23,8 +23,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="io.github.venubalan_t.twa"
-    android:versionCode="2"
-    android:versionName="2" >
+    android:versionCode="4"
+    android:versionName="4" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -128,7 +128,6 @@
 
                 <data
                     android:host="@string/hostName"
-                    android:pathPrefix="/demo-app/"
                     android:scheme="https" />
             </intent-filter>
         </activity>

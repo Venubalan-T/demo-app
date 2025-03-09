@@ -17,18 +17,18 @@
         \"relation\": [\"delegate_permission/common.handle_all_urls\"],
         \"target\": {
             \"namespace\": \"web\",
-            \"site\": \"https://venubalan-t.github.io\"
+            \"site\": \"https://chatapp-5a00d.web.app\"
         }
     }]
     
   </string>
     <string name="fallbackType" translatable="false">customtabs</string>
-    <string name="fullScopeUrl" translatable="false">https://venubalan-t.github.io/demo-app/</string>
+    <string name="fullScopeUrl" translatable="false">https://chatapp-5a00d.web.app/</string>
     <string name="generatorApp" translatable="false">bubblewrap-cli</string>
-    <string name="hostName" translatable="false">venubalan-t.github.io</string>
-    <string name="launchUrl" translatable="false">https://venubalan-t.github.io/demo-app/</string>
+    <string name="hostName" translatable="false">chatapp-5a00d.web.app</string>
+    <string name="launchUrl" translatable="false">https://chatapp-5a00d.web.app/</string>
     <string name="launcherName" translatable="false">main</string>
     <string name="orientation" translatable="false">portrait-primary</string>
     <string name="providerAuthority" translatable="false">io.github.venubalan_t.twa.fileprovider</string>
-    <string name="webManifestUrl" translatable="false">https://venubalan-t.github.io/demo-app/manifest.webmanifest</string>
+    <string name="webManifestUrl" translatable="false">https://chatapp-5a00d.web.app/manifest.webmanifest</string>
 </resources>
