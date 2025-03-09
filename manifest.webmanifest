@@ -1,1 +1,1 @@
-{"name":"Demo App","short_name":"main","start_url":"/demo-app/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/demo-app/","theme_color":"#000000","icons":[{"src":"./qube-favicon.png","sizes":"512x512","type":"image/png"}]}
+{"name":"Demo App","short_name":"main","start_url":"/demo-app/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/demo-app/","theme_color":"#000000","icons":[{"src":"/demo-app/qube-favicon.png","sizes":"512x512","type":"image/png"}]}
